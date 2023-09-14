@@ -1,0 +1,204 @@
+{
+    "users": [
+    {
+      "_id": "ObjectId_1",
+      "username": "john_doe_1",
+      "email": "john1@example.com",
+      "password": "hashed_password_1",
+      "created_at": "2022-09-13T10:20:14Z",
+      "followed_artists": ["ObjectId_artist1", "ObjectId_artist2"],
+      "saved_tracks": ["ObjectId_track1", "ObjectId_track2"],
+      "created_playlists": ["ObjectId_playlist1"]
+    },
+    {
+      "_id": "ObjectId_2",
+      "username": "john_doe_2",
+      "email": "john2@example.com",
+      "password": "hashed_password_2",
+      "created_at": "2022-09-14T10:20:14Z",
+      "followed_artists": ["ObjectId_artist2", "ObjectId_artist3"],
+      "saved_tracks": ["ObjectId_track2", "ObjectId_track3"],
+      "created_playlists": ["ObjectId_playlist2"]
+    },
+    {
+      "_id": "ObjectId_3",
+      "username": "john_doe_3",
+      "email": "john3@example.com",
+      "password": "hashed_password_3",
+      "created_at": "2022-09-15T10:20:14Z",
+      "followed_artists": ["ObjectId_artist3", "ObjectId_artist4"],
+      "saved_tracks": ["ObjectId_track3", "ObjectId_track4"],
+      "created_playlists": ["ObjectId_playlist3"]
+    },
+    {
+      "_id": "ObjectId_4",
+      "username": "john_doe_4",
+      "email": "john4@example.com",
+      "password": "hashed_password_4",
+      "created_at": "2022-09-16T10:20:14Z",
+      "followed_artists": ["ObjectId_artist4", "ObjectId_artist5"],
+      "saved_tracks": ["ObjectId_track14", "ObjectId_track5"],
+      "created_playlists": ["ObjectId_playlist5"]
+    },
+    {
+      "_id": "ObjectId_5",
+      "username": "john_doe_5",
+      "email": "john5@example.com",
+      "password": "hashed_password_5",
+      "created_at": "2022-09-13T10:20:14Z",
+      "followed_artists": ["ObjectId_artist1", "ObjectId_artist3"],
+      "saved_tracks": ["ObjectId_track5", "ObjectId_track2"],
+      "created_playlists": ["ObjectId_playlist6"]
+    },
+    {
+      "_id": "ObjectId_6",
+      "username": "john_doe_6",
+      "email": "john6@example.com",
+      "password": "hashed_password_6",
+      "created_at": "2022-09-14T10:20:14Z",
+      "followed_artists": ["ObjectId_artist4", "ObjectId_artist5"],
+      "saved_tracks": ["ObjectId_track14", "ObjectId_track5"],
+      "created_playlists": ["ObjectId_playlist5"]
+    },
+    {
+      "_id": "ObjectId_7",
+      "username": "john_doe_7",
+      "email": "john7@example.com",
+      "password": "hashed_password_7",
+      "created_at": "2022-09-17T10:20:14Z",
+      "followed_artists": ["ObjectId_artist7", "ObjectId_artist8"],
+      "saved_tracks": ["ObjectId_track7", "ObjectId_track8"],
+      "created_playlists": ["ObjectId_playlist9"]
+    },
+    {
+      "_id": "ObjectId_8",
+      "username": "john_doe_8",
+      "email": "john8@example.com",
+      "password": "hashed_password_8",
+      "created_at": "2022-09-19T10:20:14Z",
+      "followed_artists": ["ObjectId_artist8", "ObjectId_artist9"],
+      "saved_tracks": ["ObjectId_track8", "ObjectId_track9"],
+      "created_playlists": ["ObjectId_playlist10"]
+    },
+    {
+      "_id": "ObjectId_9",
+      "username": "john_doe_9",
+      "email": "john9@example.com",
+      "password": "hashed_password_9",
+      "created_at": "2022-09-13T10:20:14Z",
+      "followed_artists": ["ObjectId_artist1", "ObjectId_artist2"],
+      "saved_tracks": ["ObjectId_track1", "ObjectId_track2"],
+      "created_playlists": ["ObjectId_playlist1"]
+    },
+    {
+      "_id": "ObjectId_10",
+      "username": "john_doe_10",
+      "email": "john10@example.com",
+      "password": "hashed_password_10",
+      "created_at": "2022-09-17T10:20:14Z",
+      "followed_artists": ["ObjectId_artist1", "ObjectId_artist2"],
+      "saved_tracks": ["ObjectId_track1", "ObjectId_track2"],
+      "created_playlists": ["ObjectId_playlist1"]
+    },
+    {
+      "_id": "ObjectId_11",
+      "username": "john_doe_11",
+      "email": "john11@example.com",
+      "password": "hashed_password_11",
+      "created_at": "2022-09-15T10:20:14Z",
+      "followed_artists": ["ObjectId_artist2", "ObjectId_artist3"],
+      "saved_tracks": ["ObjectId_track2", "ObjectId_track4"],
+      "created_playlists": ["ObjectId_playlist13"]
+    },
+    {
+      "_id": "ObjectId_12",
+      "username": "john_doe_12",
+      "email": "john12@example.com",
+      "password": "hashed_password_12",
+      "created_at": "2022-09-13T10:20:14Z",
+      "followed_artists": ["ObjectId_artist1", "ObjectId_artist2"],
+      "saved_tracks": ["ObjectId_track1", "ObjectId_track2"],
+      "created_playlists": ["ObjectId_playlist1"]
+    },
+    {
+      "_id": "ObjectId_13",
+      "username": "john_doe_13",
+      "email": "john13@example.com",
+      "password": "hashed_password_13",
+      "created_at": "2022-09-20T10:20:14Z",
+      "followed_artists": ["ObjectId_artist8", "ObjectId_artist9"],
+      "saved_tracks": ["ObjectId_track8", "ObjectId_track9"],
+      "created_playlists": ["ObjectId_playlist10"]
+    },
+    {
+      "_id": "ObjectId_14",
+      "username": "john_doe_14",
+      "email": "john14@example.com",
+      "password": "hashed_password_14",
+      "created_at": "2022-09-21T10:20:14Z",
+      "followed_artists": ["ObjectId_artist1", "ObjectId_artist2"],
+      "saved_tracks": ["ObjectId_track1", "ObjectId_track2"],
+      "created_playlists": ["ObjectId_playlist1"]
+    },
+    {
+      "_id": "ObjectId_15",
+      "username": "john_doe_15",
+      "email": "john15@example.com",
+      "password": "hashed_password_15",
+      "created_at": "2022-09-21T10:20:14Z",
+      "followed_artists": ["ObjectId_artist4", "ObjectId_artist5"],
+      "saved_tracks": ["ObjectId_track14", "ObjectId_track5"],
+      "created_playlists": ["ObjectId_playlist5"]
+    },
+    {
+      "_id": "ObjectId_16",
+      "username": "john_doe_16",
+      "email": "john16@example.com",
+      "password": "hashed_password_16",
+      "created_at": "2022-09-22T10:20:14Z",
+      "followed_artists": ["ObjectId_artist1", "ObjectId_artist2"],
+      "saved_tracks": ["ObjectId_track1", "ObjectId_track2"],
+      "created_playlists": ["ObjectId_playlist1"]
+    },
+    {
+      "_id": "ObjectId_17",
+      "username": "john_doe_17",
+      "email": "john17@example.com",
+      "password": "hashed_password_17",
+      "created_at": "2022-09-24T10:20:14Z",
+      "followed_artists": ["ObjectId_artist1", "ObjectId_artist2"],
+      "saved_tracks": ["ObjectId_track1", "ObjectId_track2"],
+      "created_playlists": ["ObjectId_playlist1"]
+    },
+    {
+      "_id": "ObjectId_18",
+      "username": "john_doe_18",
+      "email": "john18@example.com",
+      "password": "hashed_password_18",
+      "created_at": "2022-09-11T10:20:14Z",
+      "followed_artists": ["ObjectId_artist1", "ObjectId_artist2"],
+      "saved_tracks": ["ObjectId_track1", "ObjectId_track2"],
+      "created_playlists": ["ObjectId_playlist1"]
+    },
+    {
+      "_id": "ObjectId_19",
+      "username": "john_doe_19",
+      "email": "john19@example.com",
+      "password": "hashed_password_19",
+      "created_at": "2022-09-24T10:20:14Z",
+      "followed_artists": ["ObjectId_artist1", "ObjectId_artist2"],
+      "saved_tracks": ["ObjectId_track1", "ObjectId_track2"],
+      "created_playlists": ["ObjectId_playlist1"]
+    },
+    {
+      "_id": "ObjectId_20",
+      "username": "john_doe_20",
+      "email": "john20@example.com",
+      "password": "hashed_password_20",
+      "created_at": "2022-09-10T10:20:14Z",
+      "followed_artists": ["ObjectId_artist2", "ObjectId_artist3"],
+      "saved_tracks": ["ObjectId_track2", "ObjectId_track4"],
+      "created_playlists": ["ObjectId_playlist13"]
+    }
+  ]
+}

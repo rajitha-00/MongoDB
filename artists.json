@@ -1,0 +1,144 @@
+{
+    "artists": [
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Ed Sheeran",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist2",
+          "name": "Taylor Swift",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Bruno Mars",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Billie Eilish",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Ariana Grande",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Post Malone",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Justin Bieber",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Katy Perry",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Lady Gaga",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Dua Lipa",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "BTS",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Shawn Mendes",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Drake",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Adele",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Beyonce",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Rihanna",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Coldplay",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "The Weeknd",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Maroon 5",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        },
+        {
+          "_id": "ObjectId_artist1",
+          "name": "Sam Smith",
+          "bio": "Edward Christopher Sheeran is an English singer-songwriter...",
+          "genres": ["Pop", "Folk"],
+          "albums": ["ObjectId_album1", "ObjectId_album2"]
+        }
+      ]
+}

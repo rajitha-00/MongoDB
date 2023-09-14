@@ -1,0 +1,124 @@
+{
+    "genres": [
+        {
+          "_id": "ObjectId_genre1",
+          "name": "Pop",
+          "description": "Pop music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track1", "ObjectId_track2"]
+        },
+        {
+          "_id": "ObjectId_genre2",
+          "name": "Rock",
+          "description": "Rock music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track3", "ObjectId_track3"]
+        },
+        {
+          "_id": "ObjectId_genre3",
+          "name": "Pop",
+          "description": "Pop music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track4", "ObjectId_track5"]
+        },
+        {
+          "_id": "ObjectId_genre4",
+          "name": "Jazz",
+          "description": "Jazz music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track4", "ObjectId_track5"]
+        },
+        {
+          "_id": "ObjectId_genre5",
+          "name": "Pop",
+          "description": "Pop music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track5", "ObjectId_track6"]
+        },
+        {
+          "_id": "ObjectId_genre6",
+          "name": "Country",
+          "description": "Country music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track6", "ObjectId_track7"]
+        },
+        {
+          "_id": "ObjectId_genre7",
+          "name": "Classical",
+          "description": "Classical music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track7", "ObjectId_track8"]
+        },
+        {
+          "_id": "ObjectId_genre8",
+          "name": "Rap",
+          "description": "Rap music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track8", "ObjectId_track9"]
+        },
+        {
+          "_id": "ObjectId_genre9",
+          "name": "Blues",
+          "description": "Blues music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track9", "ObjectId_track10"]
+        },
+        {
+          "_id": "ObjectId_genre10",
+          "name": "Electronica",
+          "description": "Electronica music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track10", "ObjectId_track11"]
+        },
+        {
+          "_id": "ObjectId_genre11",
+          "name": "Reggae",
+          "description": "Reggae music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track11", "ObjectId_track12"]
+        },
+        {
+          "_id": "ObjectId_genre12",
+          "name": "Folk",
+          "description": "Folk music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track12", "ObjectId_track13"]
+        },
+        {
+          "_id": "ObjectId_genre13",
+          "name": "Pop",
+          "description": "Pop music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track13", "ObjectId_track14"]
+        },
+        {
+          "_id": "ObjectId_genre14",
+          "name": "Soul",
+          "description": "Soul music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track14", "ObjectId_track15"]
+        },
+        {
+          "_id": "ObjectId_genre15",
+          "name": "Punk",
+          "description": "Punk music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track15", "ObjectId_track16"]
+        },
+        {
+          "_id": "ObjectId_genre16",
+          "name": "Metal",
+          "description": "Metal music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track16", "ObjectId_track17"]
+        },
+        {
+          "_id": "ObjectId_genre17",
+          "name": "Alternative",
+          "description": "Alternative music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track17", "ObjectId_track18"]
+        },
+        {
+          "_id": "ObjectId_genre18",
+          "name": "R&B",
+          "description": "R&B music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track18", "ObjectId_track19"]
+        },
+        {
+          "_id": "ObjectId_genre19",
+          "name": "Indie",
+          "description": "Indie music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track19", "ObjectId_track20"]
+        },
+        {
+          "_id": "ObjectId_genre20",
+          "name": "Hip-Hop",
+          "description": "Hip-Hop music is a genre of popular music...",
+          "top_tracks": ["ObjectId_track20", "ObjectId_track3"]
+        }
+      ]
+}

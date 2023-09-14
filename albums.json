@@ -1,0 +1,164 @@
+{
+    "albums": [
+        {
+          "_id": "ObjectId_album1",
+          "title": "Divide",
+          "artist": "ObjectId_artist1",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track1", "ObjectId_track2"],
+          "genre": ["Pop"]
+        },
+        {
+          "_id": "ObjectId_album2",
+          "title": "1989",
+          "artist": "ObjectId_artist2",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track2", "ObjectId_track3"],
+          "genre": ["Funk"]
+        },
+        {
+          "_id": "ObjectId_album3",
+          "title": "24K Magic",
+          "artist": "ObjectId_artist3",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track3", "ObjectId_track4"],
+          "genre": ["Disco"]
+        },
+        {
+          "_id": "ObjectId_album4",
+          "title": "When We All Fall Asleep, Where Do We Go?",
+          "artist": "ObjectId_artist4",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track4", "ObjectId_track5"],
+          "genre": ["Gospel"]
+        },
+        {
+          "_id": "ObjectId_album5",
+          "title": "Sweetener",
+          "artist": "ObjectId_artist5",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track5", "ObjectId_track6"],
+          "genre": ["Hip-Hop"]
+        },
+        {
+          "_id": "ObjectId_album6",
+          "title": "Hollywood's Bleeding",
+          "artist": "ObjectId_artist6",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track6", "ObjectId_track7 "],
+          "genre": ["Indie"]
+        },
+        {
+          "_id": "ObjectId_album7",
+          "title": "Purpose",
+          "artist": "ObjectId_artist7",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track7", "ObjectId_track8"],
+          "genre": ["R&B"]
+        },
+        {
+          "_id": "ObjectId_album8",
+          "title": "Prism",
+          "artist": "ObjectId_artist8",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track8", "ObjectId_track9"],
+          "genre": ["Alternative"]
+        },
+        {
+          "_id": "ObjectId_album9",
+          "title": "A Star Is Born",
+          "artist": "ObjectId_artist9",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track9", "ObjectId_track10"],
+          "genre": ["Metal"]
+        },
+        {
+          "_id": "ObjectId_album10",
+          "title": "Future Nostalgia",
+          "artist": "ObjectId_artist10",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track10", "ObjectId_track11"],
+          "genre": ["Punk"]
+        },
+        {
+          "_id": "ObjectId_album11",
+          "title": "Map of the Soul: 7",
+          "artist": "ObjectId_artist11",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track11", "ObjectId_track12"],
+          "genre": ["Soul"]
+        },
+        {
+          "_id": "ObjectId_album12",
+          "title": "Handwritten",
+          "artist": "ObjectId_artist12",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track12", "ObjectId_track13"],
+          "genre": ["Folk"]
+        },
+        {
+          "_id": "ObjectId_album13",
+          "title": "Views",
+          "artist": "ObjectId_artist13",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track13", "ObjectId_track14"],
+          "genre": ["Reggae"]
+        },
+        {
+          "_id": "ObjectId_album14",
+          "title": "25",
+          "artist": "ObjectId_artist14",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track14", "ObjectId_track15"],
+          "genre": ["Electronica"]
+        },
+        {
+          "_id": "ObjectId_album15",
+          "title": "I Am... Sasha Fierce",
+          "artist": "ObjectId_artist15",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track15", "ObjectId_track16"],
+          "genre": ["Blues"]
+        },
+        {
+          "_id": "ObjectId_album16",
+          "title": "Loud",
+          "artist": "ObjectId_artist16",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track16", "ObjectId_track17"],
+          "genre": ["Rap"]
+        },
+        {
+          "_id": "ObjectId_album17",
+          "title": "X&Y",
+          "artist": "ObjectId_artist17",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track17", "ObjectId_track18"],
+          "genre": ["Classical"]
+        },
+        {
+          "_id": "ObjectId_album18",
+          "title": "After Hours",
+          "artist": "ObjectId_artist18",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track18", "ObjectId_track19"],
+          "genre": ["Country"]
+        },
+        {
+          "_id": "ObjectId_album19",
+          "title": "V",
+          "artist": "ObjectId_artist19",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track19", "ObjectId_track20"],
+          "genre": ["Jazz"]
+        },
+        {
+          "_id": "ObjectId_album20",
+          "title": "In the Lonely Hour",
+          "artist": "ObjectId_artist20",
+          "release_date": "2017-03-03T00:00:00Z",
+          "tracks": ["ObjectId_track20", "ObjectId_track2"],
+          "genre": ["Rock"]
+        }
+      ]
+}
