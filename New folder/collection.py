@@ -1,7 +1,6 @@
 from pymongo import MongoClient
 import pandas as pd
 
-# Connect to the MongoDB server (replace with your connection details if different)
 client = MongoClient('localhost', 27017)
 
 data = pd.read_csv('./ne.csv')
